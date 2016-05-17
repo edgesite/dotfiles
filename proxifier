@@ -1,0 +1,2 @@
+proxy-us:
+	*.google.com; *.googlesource.com; *.golang.org; *.gopkg.in; *.msecnd.net; *.dropbox.com; *.dropboxstatic.com; *.cloudfront.net; *.aws.amazon.com; *.amazonaws.com; *.github.com; *.facebook.com; *.bintray.com; *.fbcdn.com; *.twimg.com; *.twitter.com; *.npmjs.com; *.fastly.net; *.python.org; *.adobe.com; *.windows.net; *.azurewebsites.net; *.vsassets.io; *.visualstudio.com; *.edgekey.net; *.vmware.com
